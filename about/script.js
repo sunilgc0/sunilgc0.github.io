@@ -1,7 +1,7 @@
 var socialMedia = {
   facebook : 'http://facebook.com/sunilgc89',
   twitter: 'http://twitter.com/sunilgc',
-  Linkedin: 'https://www.linkedin.com/in/sunilgc'
+  linkedin: 'https://www.linkedin.com/in/sunilgc'
 };
 
 var socialList = function() {
